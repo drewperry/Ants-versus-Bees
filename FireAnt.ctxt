@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FireAnt()
+comment0.text=\r\n\ Creates\ a\ new\ FireAnt\ object.\r\n
+comment1.params=
+comment1.target=void\ explode()
+comment1.text=\r\n\ injures\ neighboring\ cell\ by\ 3\ units\r\n
+comment2.params=n
+comment2.target=void\ injure(int)
+comment2.text=\r\n\ overrides\ injure\ to\ explode\ then\ remove\r\n\ @param\ n\ is\ amount\ to\ injure\r\n
+numComments=3

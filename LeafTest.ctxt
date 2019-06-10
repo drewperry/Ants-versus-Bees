@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LeafTest()
+comment0.text=\r\n\ Creates\ a\ new\ LeafTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testLeaf()
+comment2.text=\r\n\ tests\ constructor\r\n
+comment3.params=
+comment3.target=void\ testact()
+comment3.text=\r\n\ tests\ act\ when\ in\ bounds\ and\ bee\ \=\ null\r\n
+comment4.params=
+comment4.target=void\ testactonbee()
+comment4.text=\r\n\ tests\ act\ when\ on\ bee\r\n
+comment5.params=
+comment5.target=void\ testactwhen9()
+comment5.text=\r\n\ tests\ when\ x\ >\ 9\r\n
+numComments=6

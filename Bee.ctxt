@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bee()
+comment0.text=\r\n\ Creates\ a\ new\ Bee\ object.\r\n
+comment1.params=
+comment1.target=int\ getHealth()
+comment1.text=\r\n\ returns\ bee\ health\r\n\ @return\ int\ bee\ health\r\n
+comment2.params=n
+comment2.target=void\ injure(int)
+comment2.text=\r\n\ injures\ the\ bee\ and\ removes\r\n\ if\ health\ is\ zero\r\n\ @param\ n\ is\ the\ amount\ to\ be\ injured\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ how\ the\ bee\ will\ interact\r\n\ strings\ ant\ every\ 40\ turns\r\n
+numComments=4

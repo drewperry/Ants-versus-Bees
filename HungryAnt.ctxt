@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HungryAnt()
+comment0.text=\r\n\ Creates\ a\ new\ HungryAnt\ object.\r\n
+comment1.params=
+comment1.target=boolean\ digesting()
+comment1.text=\r\n\ checks\ if\ digesting\r\n\ @return\ if\ bee\ is\ still\ being\ digested\r\n
+comment2.params=
+comment2.target=void\ fullStomach()
+comment2.text=\r\n\ sets\ digesting\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Eats\ bee\ and\ digests\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=h\ f
+comment0.target=Ants(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Ants\ object.\r\n\ @param\ h\ is\ health\r\n\ @param\ f\ is\ foodCost\r\n
+comment1.params=
+comment1.target=int\ getHealth()
+comment1.text=\r\n\ returns\ health\ of\ Ant\r\n\ @return\ returns\ an\ int\ of\ the\ health\r\n
+comment2.params=n
+comment2.target=void\ injure(int)
+comment2.text=\r\n\ reduces\ health\ by\ n\ amount\r\n\ @param\ n\ is\ the\ amount\ to\ be\ injured\r\n
+comment3.params=
+comment3.target=int\ getFoodCost()
+comment3.text=\r\n\ returns\ the\ cost\ of\ this\ ant\r\n\ @return\ the\ foodCost\r\n
+numComments=4
